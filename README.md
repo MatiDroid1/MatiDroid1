@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋, soy Matías</h2>
+<h2 align="left">Hola 👋, soy Matías, este es mi repositorio de respaldo</h2>
 <h4 align="left">🎓 Estudiante de Ingeniería en Informática en DuocUC</h4>
 
 ---
