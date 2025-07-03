@@ -25,13 +25,4 @@
 </div>
 
 ---
----
-
-<div align="center" style="border-radius: 20px; padding: 10px; background: rgba(0, 0, 0, 0.7); backdrop-filter: blur(10px); width: fit-content; margin: auto; border: 2px solid #00b7ff;">
-  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%; border-radius: 12px;" />
-</div>
-
-
----
-
 <h4 align="center">🚀 ¡Gracias por visitar mi perfil!</h4>
