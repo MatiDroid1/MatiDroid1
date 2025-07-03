@@ -20,17 +20,17 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiDroid1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiDroid1&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
 ---
-<!--
+
 <div align="center" style="border-radius: 20px; padding: 10px; background: rgba(0, 0, 0, 0.7); backdrop-filter: blur(10px); width: fit-content; margin: auto; border: 2px solid #00b7ff;">
   <img src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%; border-radius: 12px;" />
 </div>
--->
+
 
 ---
 
