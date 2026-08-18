@@ -9,11 +9,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDroid21&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDroid1&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiDroid21&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiDroid1&theme=tokyo-night&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@
 
 <td align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/main/assets/pointing-1.gif?raw=true"/>
+<img height="180" src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/main/assets/pointing-1.gif?raw=true"/>
 
 </td>
 </tr>
@@ -52,7 +52,7 @@
 <h2 align="center">🌐 Conecta conmigo</h2>
 
 <p align="center">
-<a href="https://github.com/MatiDroid21">
+<a href="https://github.com/MatiDroid1">
   <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
