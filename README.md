@@ -30,7 +30,7 @@
 
 <td align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/main/assets/pointing-1.gif?raw=true"/>
+<img height="180" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid21/main/assets/pointing-1.gif?raw=true"/>
 
 </td>
 </tr>
