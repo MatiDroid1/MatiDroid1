@@ -107,9 +107,8 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:TU_CORREO@dominio.com"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://github.com/MatiDroid1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://www.linkedin.com/in/matias-chavez-58a936327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+
 
 <br/><br/>
 
