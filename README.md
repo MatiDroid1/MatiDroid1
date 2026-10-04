@@ -29,7 +29,7 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 
 ## 🛠️ Tecnologías
 
-### Con lo que trabajo en mis proyectos
+### Técnologías que estoy aprendiendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;
@@ -39,8 +39,6 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-
-### Aprendiendo / explorando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" />&nbsp;
@@ -89,23 +87,15 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 ---
 
 ## 🎯 Lo que viene
-
-- [x] Desplegar un frontend con Nginx y Docker
-- [x] Construir una API REST con Spring Boot
+- [ ] Mejorar mi lógica de programación
+- [ ] Desplegar un frontend con Nginx y Docker
+- [ ] Construir una API REST con Spring Boot
 - [ ] Automatizar despliegues con CI/CD
 - [ ] Afianzar mis conocimientos de AWS
 - [ ] Entender a fondo autenticación (JWT, OAuth2)
 - [ ] Más adelante: una certificación cloud, como AWS Cloud Practitioner
 
 ---
-
-## 📫 Contacto
-
-<div align="center">
-
-¿Quieres colaborar, darme feedback o aprender juntos? ¡Escríbeme!
-
-<a href="https://www.linkedin.com/in/matias-chavez-58a936327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
 <br/><br/>
 
