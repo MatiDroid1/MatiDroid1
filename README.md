@@ -26,7 +26,7 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Stack tecnológico Que Estoy Aprendiendo
 
 ### Frontend
 
@@ -112,7 +112,7 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 
 <br/><br/>
 
-*"Primero hazlo funcionar, después hazlo bonito, y al final despliégalo."* 👾
+*"Primero hazlo funcionar, después hazlo bonito, y al final despliégalo. O eso es lo que me dicen a mi XD"* 👾
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:6272A4&height=100&section=footer" width="100%" alt="footer" />
 
