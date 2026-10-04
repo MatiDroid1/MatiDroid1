@@ -1,71 +1,70 @@
-<h1 align="center">👾 MatiDroid</h1>
+<h2 data-importer="text" align="center">👾 MatiDroid</h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=22&center=true&vCenter=true&width=600&lines=Futuro+Ingeniero+en+Informática;Frontend+Developer+en+proceso;Construyendo+mi+camino+en+la+tecnología;Luchando+Por+Un+Sueño+⚡;Cuenta+de+respaldo+oficial;XD" />
-</p>
+###
 
-
-
----
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDroid1&theme=tokyonight&hide_border=true" height="150"/>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiDroid1&theme=tokyo-night&area=true&hide_border=true"/>
+###
+
+<img data-importer="image" align="right" height="83" src="https://i.redd.it/gz75vrmh8ekf1.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
----
+###
 
-<h2 align="center">Tech Stack</h2>
+<br clear="both">
 
-<table align="center">
-<tr>
-<td align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/snake-output/snake.svg" alt="Snake animation" />
 
-<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap,python,java,mysql,windows,vscode" />
+###
 
-</td>
-
-<td align="center">
-
-<img height="180" src="https://raw.githubusercontent.com/MatiDroid21/MatiDroid1/main/assets/pointing-1.gif?raw=true"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🧠 Sobre mí</h2>
-
-<p align="center">
-💻 Soporte técnico evolucionando a desarrollo <br>
-⚡ Experiencia en Vue, JavaScript y sistemas web <br>
-📚 Aprendiendo React y fortaleciendo lógica <br>
-🎯 Objetivo: convertirme en desarrollador profesional
-</p>
-
-
-
-<h2 align="center">🌐 Conecta conmigo</h2>
-
-<p align="center">
-<a href="https://github.com/MatiDroid1">
-<img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
----
-
-<!-- MATRIX EFFECT -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MatiDroid1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
----
+###
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=matrix"/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatiDroid1/MatiDroid1/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MatiDroid1.MatiDroid1&"  />
+</div>
+
+###
