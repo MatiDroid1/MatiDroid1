@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272A4,100:BD93F9&height=180&section=header&text=MatiDroid&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20%7C%20Full-Stack%20%7C%20Cloud%20%26%20DevOps&descSize=20&descAlignY=60" width="100%" alt="banner" />
+<h1 align= "center">Mati Droid</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+Inform%C3%A1tica+%F0%9F%8E%93;Aprendiendo+Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+Docker+%E2%80%A2+AWS;Un+proyecto+a+la+vez%2C+un+error+a+la+vez+%F0%9F%9B%A0%EF%B8%8F" alt="typing" />
 
