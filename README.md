@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align= "center">Mati Droid</h1>
+<h1 align="center">Mati Droid</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+Inform%C3%A1tica+%F0%9F%8E%93;Aprendiendo+Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+Docker+%E2%80%A2+AWS;Un+proyecto+a+la+vez%2C+un+error+a+la+vez+%F0%9F%9B%A0%EF%B8%8F" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+Inform%C3%A1tica+%F0%9F%8E%93;Aprendiendo+Spring+Boot+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+Vue;Un+proyecto+a+la+vez%2C+un+error+a+la+vez+%F0%9F%9B%A0%EF%B8%8F" alt="typing" />
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Software**. Estoy en la etapa de aprender haciendo: armo proyectos académicos, me equivoco, depuro y vuelvo a intentar.
 
-- 🔭 Ahora: proyecto full-stack académico con Angular, Spring Boot, microservicios, Docker y AWS
+- 🔭 Ahora: proyectos académicos con Spring Boot, microservicios, Docker y AWS
 - 🌱 Aprendiendo: CI/CD, OAuth2 / JWT, autenticación con Microsoft y arquitectura cloud
 - 🐛 Me cuesta (y estoy mejorando): CORS, networking y debugging de despliegues
 - 🤝 Me gusta: trabajar en equipo con Git (ramas, pull requests, hotfixes)
@@ -30,8 +30,6 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 ## 🛠️ Tecnologías
 
 ### Con lo que trabajo en mis proyectos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;
@@ -43,11 +41,11 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
 
 ### Aprendiendo / explorando
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 
 ### Herramientas
@@ -92,7 +90,7 @@ Soy estudiante de **Ingeniería Informática con mención en Desarrollo de Softw
 
 ## 🎯 Lo que viene
 
-- [x] Desplegar un frontend Angular con Nginx y Docker
+- [x] Desplegar un frontend con Nginx y Docker
 - [x] Construir una API REST con Spring Boot
 - [ ] Automatizar despliegues con CI/CD
 - [ ] Afianzar mis conocimientos de AWS
